@@ -1,0 +1,15 @@
+WORD IN MOTION — ADMİNSİZ SÜRÜM
+
+1. ZIP dosyasını bir klasöre çıkarın.
+2. index.html dosyasına çift tıklayın. Site doğrudan açılır; şifre ve sunucu gerekmez.
+3. media klasörünü ve diğer dosyaları index.html ile birlikte tutun.
+
+GITHUB PAGES
+ZIP içindeki dosyaları deponun ana klasörüne yükleyin. index.html ana klasörde bulunmalıdır.
+Settings > Pages > Source: Deploy from a branch
+Branch: main (veya yüklediğiniz dal), Folder: / (root), Save.
+Yayın tamamlanınca Visit site bağlantısını açın.
+Önceki Publish GitHub Pages iş akışını kullanıyorsanız bu sade pakette derleme yoktur; Pages kaynağını yukarıdaki gibi dal üzerinden yayın olarak değiştirin.
+
+Paket yalnızca site dosyalarını içerir; yönetim paneli, giriş ve şifre dosyası yoktur.
+45 ana video, 45 telefon videosu ve görseller dahildir.
