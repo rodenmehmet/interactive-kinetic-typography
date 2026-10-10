@@ -1,6 +1,0 @@
-.env
-admin-password.txt
-storage/
-dist/
-node_modules/
-*.log
